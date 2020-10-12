@@ -13,9 +13,9 @@ title: CADRE Beta Demo (Version 1.0.0-beta 02-10-2020)
 
 ## The Beta Release
 
-CADRE’s Beta Release (Version 1.0.0-beta) means users can work with Microsoft Academic Graph and using CADRE’s many features with our promise of persistent user data. CADRE’s sponsoring partners will have access to an additional paid-tier of service and content (Web of Science).
+CADRE’s Beta Release (Version 1.0.0-beta) means users can work with Microsoft Academic Graph and using CADRE’s many features with our promise of persistent and reproducible data*. CADRE’s sponsoring partners will have access to an additional paid-tier of service and content (Web of Science).
 
-At today’s CADRE workshop, attendees will learn how to work with all of the CADRE features available to them in the alpha version of the platform, such as how to:
+At today’s CADRE workshop, attendees will learn how to work with all of the CADRE features available to them in the beta version of the platform, such as how to:
 
 - Access open Microsoft Academic Graph datasets (or Web of Science for certain users)
 - Query datasets with the CADRE Query Builder, CADRE’s user-friendly GUI query builder
