@@ -2,7 +2,7 @@
 
 lesson-example
 ==============
-Please see https://iuni-cadre.github.io/AlphaDemo/
+Please see https://iuni-cadre.github.io/BetaDemo/
 for a rendered version of this material,
 including detailed instructions on design, setup, and formatting.
 
