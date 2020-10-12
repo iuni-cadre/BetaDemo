@@ -14,7 +14,7 @@ title: "CADRE: A one-stop shop for scholarly data access, sharing, and reproduci
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
-life_cycle: "Alpha Release Demo"
+life_cycle: "Beta Release Demo"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
