@@ -1,5 +1,5 @@
 ---
-title: "Outreach and upcoming CADRE events (Yan)"
+title: "Closing and upcoming CADRE events (Yan)"
 teaching: 10
 exercises: 0
 questions:
