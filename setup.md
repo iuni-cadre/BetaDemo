@@ -1,5 +1,5 @@
 ---
-title: CADRE Beta Demo (Version 1.0.0-alpha 02-10-2020)
+title: CADRE Beta Demo (Version 1.0.0-beta 02-10-2020)
 ---
 [Slides:](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
 
@@ -11,9 +11,9 @@ title: CADRE Beta Demo (Version 1.0.0-alpha 02-10-2020)
 >- Source code for the demo will be automatically downloaded to your personal space. It can also be found at the [GitHub repository](https://github.com/iuni-cadre/BetaDemoCode).
 {: .prereq}
 
-## The Alpha Release
+## The Beta Release
 
-CADRE’s Alpha Release (Version 0.1.0-alpha) means users can begin working with Microsoft Academic Graph and using CADRE’s many features at no cost. CADRE’s sponsoring partners will have access to an additional paid-tier of service and content (Web of Science).
+CADRE’s Beta Release (Version 1.0.0-beta) means users can work with Microsoft Academic Graph and using CADRE’s many features with our promise of persistent user data. CADRE’s sponsoring partners will have access to an additional paid-tier of service and content (Web of Science).
 
 At today’s CADRE workshop, attendees will learn how to work with all of the CADRE features available to them in the alpha version of the platform, such as how to:
 
