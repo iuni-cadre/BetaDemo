@@ -1,6 +1,6 @@
 ---
 title: "Demo02: Networks, visualizations and reproducibility (Yan)"
-teaching: 20
+teaching: 15
 exercises: 0
 questions:
 - "How can you build networks from query results and visualize them"
