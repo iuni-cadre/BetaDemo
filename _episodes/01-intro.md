@@ -1,6 +1,6 @@
 ---
-title: "Overview of the CADRE project (Pentchev)"
-teaching: 5
+title: "Overview of the CADRE project (Mabry & Pentchev)"
+teaching: 15
 exercises: 0
 questions:
 - "What is CADRE"
