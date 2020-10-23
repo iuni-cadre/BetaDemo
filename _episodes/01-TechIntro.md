@@ -3,13 +3,12 @@ title: "Tech Overview of the CADRE project (Pentchev)"
 teaching: 5
 exercises: 0
 questions:
-- "What is CADRE"
+- "What is happenning behind CADRE"
 objectives:
-- "Introduce the CADRE project and announce the Alpha release"
+- "Introduce the tech team and announce the Beta release"
 keypoints:
-- "SBD-G, or the shared big data gateway"
-- "CADRE, or the Collaborative Archive & Data Research Environment"
-- "The Alpha Release"
+- "Introduce the tech team"
+- "The Beta Release"
 ---
 
 [Slides:](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000#slide=id.g6112ce6bd3_0_0)
