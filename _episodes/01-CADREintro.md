@@ -1,5 +1,5 @@
 ---
-title: "Upcoming CADRE features and events (Yan)"
+title: "Introducing the CADRE project and team (Mabry)"
 teaching: 10
 exercises: 0
 questions:
