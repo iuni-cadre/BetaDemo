@@ -1,5 +1,5 @@
 ---
-title: "Overview of the CADRE project (Mabry & Pentchev)"
+title: "Tech Overview of the CADRE project (Pentchev)"
 teaching: 5
 exercises: 0
 questions:
