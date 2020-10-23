@@ -3,14 +3,14 @@ title: "Introducing the CADRE project and team (Mabry)"
 teaching: 10
 exercises: 0
 questions:
-- "What is happenning for CADRE in 2020"
+- "What is CADRE?"
 objectives:
-- "CADRE outreach efforts"
-- "Annouce the webniar series with the Fellowship teams"
+- "CADRE project and its background"
+- "Introduce the team"
 keypoints:
-- "CADRE future milestones"
-- "Upcoming fellowship presentations"
-- "Upcoming CADRE events"
+- "Why CADRE?"
+- "The leadership tea"
+- "The outreach team"
 ---
 
 [Slides:](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000#slide=id.g6112ce6bd3_0_7)
