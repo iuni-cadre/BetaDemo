@@ -5,13 +5,12 @@ exercises: 0
 questions:
 - "How can you build networks from query results and visualize them"
 objectives:
-- "Demonstrate word cloud visualizations."
+- "Demonstrate DOI featured packages and how the Market will integrate"
 - "Demonstrate network visualizations."
 - "Explain how you can reproduce the result using public tools, with your own data"
-- "Demonstrate advanced intreactive visualizations"
 keypoints:
 - Visualize prepared data query data in notebook
-- Visualize your query data without coding
+- Visualize your query data without coding by using featured packages
 - Refine your query for better visualizations
 ---
 
@@ -21,16 +20,24 @@ keypoints:
 {: .prereq}
 
 ## Notebooks
-Notebooks and source code will be automatically downloaded to your personal Jupyter Notebook. They can also be found at the [GitHub repository](https://github.com/iuni-cadre/AlphaDemoCode).
+Notebooks and source code will be automatically downloaded to your personal Jupyter Notebook. They can also be found at the [GitHub repository](https://github.com/iuni-cadre/BetaDemoCode).
 
-The first notebook illustrates network and word cloud visualizations. 
+Demonstrate DOI featured packages at
+https://cadre.iu.edu/resources/dois/sdg-research
+
+The following script illustrates the reproducible code for building coauthor network from the orginal data courtesy of the Fellow team "Mapping Collaborations and Partnerships in SDG Research"
 ```
-Notebook:  AlphaDemoCode/Demo 02/Part1.ipynb
+Notebook:  BetaDemoCode/Demo 02/MCAPcoauthor.py
 ```
 
-The second notebook Demonstrates more advanced intreactive visualizations.
+The following notebook illustrates how to transform your own query results for a similar visualization
 ```
-Notebook:  AlphaDemoCode/Demo 02/Part2.ipynb
+Notebook:  BetaDemoCode/Demo 02/CustomQuery.ipynb 
+```
+
+The second script translates the code in the aforementioned notebook and produces a sharable package
+```
+Notebook:  BetaDemoCode/Demo 02/CustomQuery.py
 ```
 ## CADRE packages and tools
 All packages, tools and archives can be accessed from the CADRE Marketplace. [https://cadre.iu.edu/gateway/rac](https://cadre.iu.edu/gateway/rac)
@@ -48,7 +55,7 @@ Tool:  demo02-public
 > ## Current limitations
 >- Only Microsoft Academic Graph data is compatible with this demo
 >- Refine your query size for better visulization results (only papers after 2017 will be included for size control)
->- Public sharing of user tools, archives and packages will be enabled later
+>- Public sharing of user tools, and packages, archive sharing will be enabled later
 >- Advanced visualizations in Notebook Part2.ipynb currently cannot be containerized into CADRE packages or tools
 {: .callout}
 
