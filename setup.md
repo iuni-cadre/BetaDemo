@@ -18,10 +18,10 @@ CADRE’s Beta Release (Version 1.0.0-beta) means users can work with Microsoft 
 At today’s CADRE workshop, attendees will learn how to work with all of the CADRE features available to them in the beta version of the platform, such as how to:
 
 - Access open Microsoft Academic Graph datasets (or Web of Science for certain users)
-- Query datasets with the CADRE Query Builder, CADRE’s user-friendly GUI query builder
+- Query datasets with the CADRE Query Builder, CADRE’s user-friendly GUI query builder, now powered by state-of-the-art graph database engines
 - Code data-analysis and visualization tools in Jupyter Notebook
 - Create a private space to store query outputs, data-analysis tools, and research results 
 - Reproduce queries, data-analysis tools, derived data, research results, workflows, and visualizations in the Marketplace
-- Reproduce analysis or visualizations shared by other researchers in the RAC Marketplace (public sharing of user code/data will be enabled later)
+- Reproduce analysis or visualizations shared by other researchers in the marketplace. Public sharing of user code will be enabled for the first time!
 
 {% include links.md %}
