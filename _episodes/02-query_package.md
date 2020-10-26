@@ -14,7 +14,7 @@ objectives:
 - "Explain how to combine tools with archives into reproducible packages"
 keypoints:
 - Web of Science and Microsoft Academic Graph have different output fields 
-- Use the preview functionality in the GUI-query builder to quickly explore the data
+- The preview functionality in the GUI-query builder is temporarly disabled
 - All your query and package results can be viewd in your notebook environment
 - Naming your queries, tools, archives and packages will make keeping track of them much easier
 - Mix and match tools with archives to explore combinations of code and data
