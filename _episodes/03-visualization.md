@@ -19,7 +19,7 @@ keypoints:
 >- To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace. [https://cadre.iu.edu/gateway/rac](https://cadre.iu.edu/gateway/rac)
 {: .prereq}
 
-## Notebooks
+## Scripts and Notebooks
 Notebooks and source code will be automatically downloaded to your personal Jupyter Notebook. They can also be found at the [GitHub repository](https://github.com/iuni-cadre/BetaDemoCode).
 
 Demonstrate DOI featured packages at
