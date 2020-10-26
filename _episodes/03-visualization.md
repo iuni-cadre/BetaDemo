@@ -54,7 +54,7 @@ Tool:  Custom Coauthor Network
 
 > ## Current limitations
 >- Only Microsoft Academic Graph data is compatible with this demo
->- Refine your query size for better visulization results (only papers after 2017 will be included for size control)
+>- Refine your query size for better visulization results (especially graph size control)
 >- Public sharing of user tools, and packages, archive sharing will be enabled later
 >- Advanced visualizations in Notebook Part2.ipynb currently cannot be containerized into CADRE packages or tools
 {: .callout}
