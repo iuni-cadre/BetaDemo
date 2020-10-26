@@ -23,7 +23,7 @@ keypoints:
 Notebooks and source code will be automatically downloaded to your personal Jupyter Notebook. They can also be found at the [GitHub repository](https://github.com/iuni-cadre/BetaDemoCode).
 
 Demonstrate DOI featured packages at
-https://cadre.iu.edu/resources/dois/sdg-research
+[https://cadre.iu.edu/resources/dois/sdg-research](https://cadre.iu.edu/resources/dois/sdg-research)
 
 The following script illustrates the reproducible code for building coauthor network from the orginal data courtesy of the Fellow team "Mapping Collaborations and Partnerships in SDG Research"
 ```
