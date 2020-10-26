@@ -42,14 +42,14 @@ Notebook:  BetaDemoCode/Demo 02/CustomQuery.py
 ## CADRE packages and tools
 All packages, tools and archives can be accessed from the CADRE Marketplace. [https://cadre.iu.edu/gateway/rac](https://cadre.iu.edu/gateway/rac)
 
-The following package will reproduce the network and word cloud visualizations using prepared data.
+The following package will reproduce the coauthor network by the Fellow team "Mapping Collaborations and Partnerships in SDG Research".
 ```
-Package:  demo02-public-all-default
+Package:  https://cadre.iu.edu/gateway/rac/package/a7f1929d-0262-4f0a-b728-a1e42654d88c
 ```
 
 Use the following public tool to create new packages for your own query results.
 ```
-Tool:  demo02-public
+Tool:  Custom Coauthor Network
 ```
 
 > ## Current limitations
