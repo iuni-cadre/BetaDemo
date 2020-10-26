@@ -8,7 +8,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 > ## What will be covered
 >
-> 0.  Alpha Release of the Collaborative Archive & Data Research Environment (CADRE)
+> 0.  Beta Release of the Collaborative Archive & Data Research Environment (CADRE)
 > 1.  Follow our interactive demos to access open bibliographic data
 > 2.  Creat your first reproducible CADRE package with your own code or somebody else's tools.
 {: .checklist}
