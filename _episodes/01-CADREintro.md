@@ -1,6 +1,6 @@
 ---
 title: "Introducing the CADRE project (Mabry)"
-teaching: 10
+teaching: 7
 exercises: 0
 questions:
 - "What is CADRE?"
