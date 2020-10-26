@@ -1,5 +1,5 @@
 ---
-title: "Demo01: Data access and reproducible packages (Hutchinson)"
+title: "Demo01: Data access and the Marketplace (Hutchinson)"
 teaching: 30
 exercises: 0
 questions:
@@ -26,21 +26,21 @@ keypoints:
 {: .prereq}
 
 ## Notebooks and script files
-Notebooks and source code will be automatically downloaded to your personal Jupyter Notebook. They can also be found at the [GitHub repository](https://github.com/iuni-cadre/AlphaDemoCode).
+Notebooks and source code will be automatically downloaded to your personal Jupyter Notebook. They can also be found at the [GitHub repository](https://github.com/iuni-cadre/BetaDemoCode).
 
 The notebook illustrates a simple analysis step by step.
 ```
-Notebook:  AlphaDemoCode/Demo 01/Feb_demo_01.ipynb
+Notebook:  BetaDemoCode/Demo 01/Oct_demo_01.ipynb
 ```
 
 The following python script contains the same content but is modified for building CADRE tools.
 ```
-Script:  AlphaDemoCode/Demo 01/Feb_demo_02.py
+Script:  BetaDemoCode/Demo 01/Oct_demo_02.py
 ```
 
 A requirement file is one way to include additional python packages
 ```
-AlphaDemoCode/Demo 01/requirements.txt
+BetaDemoCode/Demo 01/requirements.txt
 ```
 
 ## CADRE packages and tools
