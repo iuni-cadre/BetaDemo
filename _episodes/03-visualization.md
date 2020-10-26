@@ -1,5 +1,5 @@
 ---
-title: "Demo02: Networks, visualizations and reproducibility (Yan)"
+title: "Demo02: Reproducibility and Network Visualizations (Yan)"
 teaching: 15
 exercises: 0
 questions:
