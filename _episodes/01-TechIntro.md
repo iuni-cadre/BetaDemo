@@ -1,6 +1,6 @@
 ---
 title: "Tech Overview of the CADRE project (Pentchev)"
-teaching: 5
+teaching: 8
 exercises: 0
 questions:
 - "What is happenning behind CADRE"
