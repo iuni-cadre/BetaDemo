@@ -32,6 +32,7 @@ This project is funded with IMLS award LG-70-18-0202 and is additionally support
 >- West Big Data Hub
 >- Microsoft Research
 >- Web of Science Group
+>- Healthpartners Institute
 >- Michigan State University Libraries
 >- Ohio State University Libraries
 >- Penn State University Libraries
@@ -40,6 +41,7 @@ This project is funded with IMLS award LG-70-18-0202 and is additionally support
 >- University of Iowa Libraries
 >- University of Michigan Libraries
 >- University of Minnesota Libraries
+>- University of Maryland Libraries
 {: .checklist}
 
 {% include links.md %}
