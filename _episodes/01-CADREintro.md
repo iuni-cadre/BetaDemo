@@ -1,5 +1,5 @@
 ---
-title: "Introducing the CADRE project and team (Mabry)"
+title: "Introducing the CADRE project (Mabry)"
 teaching: 10
 exercises: 0
 questions:
